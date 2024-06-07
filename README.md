@@ -13,7 +13,6 @@ This repository provides an implementation of the Adaptive Simpson's Method for 
 - [Visualization](#visualization)
 - [Detailed Explanation of Adaptive Simpson's Method](#detailed-explanation-of-adaptive-simpsons-method)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
