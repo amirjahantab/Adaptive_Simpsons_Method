@@ -32,7 +32,7 @@ pip install numpy matplotlib
 
 Define the function you wish to integrate. In this example, we use the function:
 
-\[ f(x) = \frac{100}{x^2} \sin \left( \frac{10}{x} \right) \]
+$\ f(x) = \frac{100}{x^2} \sin \left( \frac{10}{x} \right) \$
 
 ### Adaptive Simpson's Method
 
@@ -111,7 +111,7 @@ The Adaptive Simpson's Method is an advanced numerical technique used to compute
 
 Simpson's Rule approximates the integral of a function \( f(x) \) over an interval \([a, b]\) by dividing the interval into two subintervals \([a, c]\) and \([c, b]\), where \( c = (a + b) / 2 \). The integral is then approximated by:
 
-\[ \int_{a}^{b} f(x) \, dx \approx \frac{b - a}{6} \left[ f(a) + 4f(c) + f(b) \right] \]
+$\ \int_{a}^{b} f(x) \, dx \approx \frac{b - a}{6} \left[ f(a) + 4f(c) + f(b) \right] \$
 
 This formula assumes that \( f(x) \) can be approximated by a quadratic polynomial over the interval.
 
